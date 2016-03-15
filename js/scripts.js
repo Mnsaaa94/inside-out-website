@@ -7,4 +7,5 @@ $(document).ready(function()
 	$(".dropdown-button").dropdown({click:false});
 	$('.fixed-action-btn').openFAB();
 	$('.fixed-action-btn').closeFAB();
+	$(".button-collapse").sideNav();
 });
